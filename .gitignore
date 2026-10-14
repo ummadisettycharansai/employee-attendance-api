@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+*.py[cod]
+out.txt
+mongodb-data/
+dump/
+*.bson
+Dockerfile
+Dockerfile.*
+live_validation_results.json
+PROBLEM_STATEMENT.docx
+docker-validation-config/
